@@ -18,5 +18,13 @@
     <ClCompile Include="DSNTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DSNTreeApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DSNTreeApp.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
