@@ -1,3 +1,5 @@
+#This repository is deprecated, replaced by [DSN2CSV](https://github.com/krisk78/DSN2CSV).
+
 DSNTree is a file converter for DSN files (a standard used in France declarations to public administration).
 It adds columns with parent block keys (the code of the block and the value of the wage type that is supposed to be the unique key wage type of the block).
 
