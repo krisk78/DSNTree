@@ -1,3 +1,5 @@
+# Ce dépôt est obsolète, remplacé par [DSN2CSV](https://github.com/krisk78/DSN2CSV).
+
 DSNTree est un programme de conversion des fichiers DSN (un standard utilisé en France pour les déclarations sociales des entreprises à destination de l'administration publique).
 Il ajoute des nouveaux champs au fichier original. Les blocs parents sont ajoutés devant chaque bloc ainsi que la valeur de leur rubrique clé (la rubrique du bloc censée contenir une valeur unique).
 
